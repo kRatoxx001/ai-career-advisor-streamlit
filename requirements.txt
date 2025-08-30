@@ -1,3 +1,21 @@
-streamlit==1.36.0
+# Core framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# For handling requests
+requests==2.32.3
+
+# Data models and validation
+pydantic==1.10.15
+
+# Streamlit for frontend demo
+streamlit==1.38.0
+
+# For AI / ML (skill matching, embeddings, optional)
 scikit-learn==1.5.1
+sentence-transformers==3.0.1
+
+# Utils
 numpy==1.26.4
+pandas==2.2.2
+
