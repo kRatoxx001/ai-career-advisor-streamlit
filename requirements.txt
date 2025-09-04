@@ -1,9 +1,5 @@
-
-requests
-pydantic
 streamlit
 scikit-learn
-sentence-transformers
 numpy
 pandas
 
